@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this assignment, you will implement a neural network class from (almost) scratch. You will then apply your class to create both:
+In this assignment, I implemented a neural network class from (almost) scratch. You will then apply your class to create both:
 
 **(1) a simple 64x16x64 autoencoder.**
 
